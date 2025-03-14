@@ -1,5 +1,5 @@
 # WikiGuess
-================
+---------------
 
 Ein Quiz-Spiel, das auf Wikipedia-Daten basiert
 
